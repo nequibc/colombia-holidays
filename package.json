@@ -11,7 +11,7 @@
     "url": "https://github.com/nequibc/colombia-holidays.git"
   },  
   "author": "escatano@bancolombia.com.co",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "GPL-3.0",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
