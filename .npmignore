@@ -1,0 +1,7 @@
+Gruntfile.js
+dist
+*.iml
+keys
+test/
+reports/
+coverage/
