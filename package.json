@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/nequibc/colombia-holidays.git"
   },  
-  "author": "escatano@bancolombia.com.co",
+  "author": "Esteban Cataño Escobar",
   "license": "GPL-3.0",
   "dependencies": {},
   "devDependencies": {
