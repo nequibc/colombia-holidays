@@ -2,7 +2,7 @@
 /**
  * @module colombia-holidays
  * @description Días festivos no laborables en Colombia. Calculados con base en la ley 51 de 1983
- * @author      <escatano@bancolombia.com.co>
+ * @author      Esteban Cataño Escobar
  * @version     0.0.1                 
  * @since       2017-04-24
  * @lastModified 2017-04-25
