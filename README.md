@@ -7,6 +7,7 @@ Días festivos no laborables en Colombia. Calculados con base en la ley 51 de 19
 **Since**: 2017-04-24  
 **Version**: 0.0.1  
 **Author:** Esteban Cataño Escobar
+
 **Example**  
 ```js
 npm install colombia-holidays 
